@@ -1,0 +1,5 @@
+set -tmpdir "E:/fourbitbinaryadder/xst/projnav.tmp"
+set -xsthdpdir "E:/fourbitbinaryadder/xst"
+elaborate
+-ifn binaryadd.prj
+-ifmt mixed

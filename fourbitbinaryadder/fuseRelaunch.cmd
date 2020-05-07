@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/fourbitbinaryadder/binary_tb_isim_beh.exe" -prj "E:/fourbitbinaryadder/binary_tb_beh.prj" "work.binary_tb" 

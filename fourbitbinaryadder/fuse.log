@@ -1,0 +1,22 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o E:/fourbitbinaryadder/binary_tb_isim_beh.exe -prj E:/fourbitbinaryadder/binary_tb_beh.prj work.binary_tb 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/fourbitbinaryadder/c.vhd" into library work
+Parsing VHDL file "E:/fourbitbinaryadder/code.vhd" into library work
+Parsing VHDL file "E:/fourbitbinaryadder/tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 180904 KB
+Fuse CPU Usage: 264 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity fa [fa_default]
+Compiling architecture behavioral of entity binaryadd [binaryadd_default]
+Compiling architecture behavior of entity binary_tb
+Time Resolution for simulation is 1ps.
+Compiled 7 VHDL Units
+Built simulation executable E:/fourbitbinaryadder/binary_tb_isim_beh.exe
+Fuse Memory Usage: 189708 KB
+Fuse CPU Usage: 328 ms

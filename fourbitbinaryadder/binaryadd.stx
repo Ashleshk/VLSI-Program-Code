@@ -1,0 +1,38 @@
+Release 14.7 - xst P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to E:/fourbitbinaryadder/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 2.00 secs
+Total CPU time to Xst completion: 1.42 secs
+ 
+--> Parameter xsthdpdir set to E:/fourbitbinaryadder/xst
+
+
+Total REAL time to Xst completion: 2.00 secs
+Total CPU time to Xst completion: 1.42 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "E:/fourbitbinaryadder/c.vhd" in Library work.
+Entity <fa> compiled.
+Entity <fa> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/fourbitbinaryadder/code.vhd" in Library work.
+Entity <binaryadd> compiled.
+Entity <binaryadd> (Architecture <Behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 2.00 secs
+Total CPU time to Xst completion: 1.72 secs
+ 
+--> 
+
+Total memory usage is 250500 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
