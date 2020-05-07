@@ -1,0 +1,29 @@
+Command line:
+   Testbench_behavioral_adder_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  61839
+
+Fri Oct 25 05:05:43 2019
+
+
+ Elaboration Time: 0.28125 sec
+
+ Current Memory Usage: 1007.09 Meg
+
+ Total Signals          : 11
+ Total Nets             : 7
+ Total Signal Drivers   : 6
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 4
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 508
+Total Line Count : 35
+
+ Total Simulation Time: 0.3125 sec
+
+ Current Memory Usage: 1322.19 Meg
+
+Fri Oct 25 05:06:18 2019
+

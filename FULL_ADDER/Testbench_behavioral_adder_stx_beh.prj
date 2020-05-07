@@ -1,0 +1,2 @@
+vhdl isim_temp "FULL_ADDER_BEHAVIORAL.vhd"
+vhdl isim_temp "teb.vhd"
