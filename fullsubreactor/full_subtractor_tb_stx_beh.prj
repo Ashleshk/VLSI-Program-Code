@@ -1,0 +1,2 @@
+vhdl isim_temp "fullsubtractor.vhd"
+vhdl isim_temp "full_subtractor_tb.vhd"

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="377" delta="unknown" >"E:/fullsubreactor/full_subtractor_tb.vhd" Line 44: Entity port <arg fmt="%s" index="1">a</arg> does not match with type <arg fmt="%s" index="2">std_logic</arg> of component port
+</msg>
+
+<msg type="error" file="HDLCompiler" num="377" delta="unknown" >"E:/fullsubreactor/full_subtractor_tb.vhd" Line 45: Entity port <arg fmt="%s" index="1">b</arg> does not match with type <arg fmt="%s" index="2">std_logic</arg> of component port
+</msg>
+
+<msg type="error" file="HDLCompiler" num="377" delta="unknown" >"E:/fullsubreactor/full_subtractor_tb.vhd" Line 46: Entity port <arg fmt="%s" index="1">c</arg> does not match with type <arg fmt="%s" index="2">std_logic</arg> of component port
+</msg>
+
+<msg type="error" file="HDLCompiler" num="377" delta="unknown" >"E:/fullsubreactor/full_subtractor_tb.vhd" Line 47: Entity port <arg fmt="%s" index="1">diff</arg> does not match with type <arg fmt="%s" index="2">std_logic</arg> of component port
+</msg>
+
+<msg type="error" file="HDLCompiler" num="377" delta="unknown" >"E:/fullsubreactor/full_subtractor_tb.vhd" Line 48: Entity port <arg fmt="%s" index="1">borrow</arg> does not match with type <arg fmt="%s" index="2">std_logic</arg> of component port
+</msg>
+
+<msg type="error" file="Simulator" num="777" delta="unknown" >Static elaboration of top level VHDL design unit <arg fmt="%s" index="1">full_subtractor_tb</arg> in library <arg fmt="%s" index="2">work</arg> failed
+</msg>
+
+</messages>
+
