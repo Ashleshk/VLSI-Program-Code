@@ -1,0 +1,5 @@
+set -tmpdir "E:/newfulladder/xst/projnav.tmp"
+set -xsthdpdir "E:/newfulladder/xst"
+elaborate
+-ifn or_gate.prj
+-ifmt mixed

@@ -1,0 +1,4 @@
+vhdl work "or.vhd"
+vhdl work "ha.vhd"
+vhdl work "full_adder.vhd"
+vhdl work "fa-tb.vhd"

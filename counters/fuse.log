@@ -1,0 +1,23 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o E:/counters/tb_counters_isim_beh.exe -prj E:/counters/tb_counters_beh.prj work.tb_counters 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/counters/UP_COUNTER.vhd" into library work
+Parsing VHDL file "E:/counters/tb_counters.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 181480 KB
+Fuse CPU Usage: 296 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity UP_COUNTER [up_counter_default]
+Compiling architecture behavior of entity tb_counters
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable E:/counters/tb_counters_isim_beh.exe
+Fuse Memory Usage: 196364 KB
+Fuse CPU Usage: 390 ms

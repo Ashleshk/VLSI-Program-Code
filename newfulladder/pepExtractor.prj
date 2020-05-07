@@ -1,0 +1,3 @@
+work	"full_adder.vhd"
+work	"ha.vhd"
+work	"or.vhd"

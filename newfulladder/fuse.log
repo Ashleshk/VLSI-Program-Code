@@ -1,0 +1,15 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o E:/newfulladder/fulladder_tb_isim_beh.exe -prj E:/newfulladder/fulladder_tb_beh.prj work.fulladder_tb 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/newfulladder/or.vhd" into library work
+Parsing VHDL file "E:/newfulladder/ha.vhd" into library work
+Parsing VHDL file "E:/newfulladder/full_adder.vhd" into library work
+Parsing VHDL file "E:/newfulladder/fa-tb.vhd" into library work
+Starting static elaboration
+ERROR:HDLCompiler:1156 - "E:/newfulladder/full_adder.vhd" Line 18: Formal port <a> does not exist in entity <ha>.  Please compare the definition of block <ha> to its component declaration and its instantion to detect the mismatch.
+ERROR:HDLCompiler:1156 - "E:/newfulladder/full_adder.vhd" Line 19: Formal port <b> does not exist in entity <ha>.  Please compare the definition of block <ha> to its component declaration and its instantion to detect the mismatch.
+ERROR:HDLCompiler:1156 - "E:/newfulladder/full_adder.vhd" Line 20: Formal port <s> does not exist in entity <ha>.  Please compare the definition of block <ha> to its component declaration and its instantion to detect the mismatch.
+ERROR:HDLCompiler:1156 - "E:/newfulladder/full_adder.vhd" Line 21: Formal port <c> does not exist in entity <ha>.  Please compare the definition of block <ha> to its component declaration and its instantion to detect the mismatch.
+ERROR:Simulator:777 - Static elaboration of top level VHDL design unit fulladder_tb in library work failed
