@@ -1,0 +1,2 @@
+vhdl work "upcounter.vhd"
+vhdl work "tb_counter.vhd"
