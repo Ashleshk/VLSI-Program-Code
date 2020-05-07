@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/mux81/mux_tb_isim_beh.exe" -prj "E:/mux81/mux_tb_beh.prj" "work.mux_tb" 

@@ -1,0 +1,21 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o E:/decoder3to8/decoder38_tb_isim_beh.exe -prj E:/decoder3to8/decoder38_tb_beh.prj work.decoder38_tb 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/decoder3to8/code.vhd" into library work
+Parsing VHDL file "E:/decoder3to8/t.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 180904 KB
+Fuse CPU Usage: 311 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity decoder38 [decoder38_default]
+Compiling architecture behavior of entity decoder38_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 VHDL Units
+Built simulation executable E:/decoder3to8/decoder38_tb_isim_beh.exe
+Fuse Memory Usage: 189708 KB
+Fuse CPU Usage: 374 ms
